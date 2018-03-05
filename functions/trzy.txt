@@ -1,0 +1,13 @@
+procedure trzy
+begin
+	turnRight
+	while not isWall
+	begin
+		move
+		if isWall
+		begin
+			turnLeft
+		end
+	end
+	turnRight
+end

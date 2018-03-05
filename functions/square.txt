@@ -1,0 +1,7 @@
+procedure square
+begin
+	while move
+	begin
+		turnLeft
+	end
+end

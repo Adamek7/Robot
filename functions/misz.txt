@@ -1,0 +1,15 @@
+procedure misz
+begin
+	while not isWall
+	begin
+		move
+		if isWall
+		begin
+			turnLeft
+		end
+	end
+	while isWall
+	begin
+		turnRight
+	end
+end

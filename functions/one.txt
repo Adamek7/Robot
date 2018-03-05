@@ -1,0 +1,7 @@
+procedure one
+begin
+	two
+	two
+	two
+	two
+end

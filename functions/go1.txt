@@ -1,0 +1,8 @@
+procedure go1
+begin
+	while not isWall
+	begin
+		put
+		move
+	end
+end

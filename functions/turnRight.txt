@@ -1,0 +1,6 @@
+procedure turnRight
+begin
+	turnLeft
+	turnLeft
+	turnLeft
+end

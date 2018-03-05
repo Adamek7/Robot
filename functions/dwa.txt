@@ -1,0 +1,8 @@
+procedure dwa
+begin
+	turnRight
+	while not isWall
+	begin
+		move
+	end
+end

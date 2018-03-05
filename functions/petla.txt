@@ -1,0 +1,7 @@
+procedure petla
+begin
+	while not isWall
+	begin
+		move
+	end
+end

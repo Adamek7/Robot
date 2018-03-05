@@ -1,0 +1,7 @@
+procedure cztery
+begin
+	going
+	going
+	going
+	going
+end

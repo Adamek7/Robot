@@ -1,0 +1,7 @@
+procedure jeden
+begin
+	move
+	move
+	move
+	move
+end

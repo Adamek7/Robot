@@ -1,0 +1,11 @@
+procedure petla1
+begin
+	while not isWall
+	begin
+		move
+	end
+	while not isBrick
+	begin
+		turnLeft
+	end
+end

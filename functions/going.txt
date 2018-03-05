@@ -1,0 +1,8 @@
+procedure going
+begin
+	while not isWall
+	begin
+		move
+	end
+	turnRight
+end

@@ -1,0 +1,16 @@
+procedure fill
+begin
+	while not isBrick
+	begin
+		go1
+		turnLeft
+		put
+		move
+		turnLeft
+		go1
+		turnRight
+		put
+		move
+		turnRight
+	end
+end

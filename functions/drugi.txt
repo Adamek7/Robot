@@ -1,0 +1,6 @@
+procedure drugi
+begin
+	petla
+	turnLeft
+	petla
+end
